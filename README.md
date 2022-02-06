@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukSantana
 - 👀 I’m interested in learning, technology in general and evolving.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
