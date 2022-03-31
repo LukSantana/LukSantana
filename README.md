@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lucas-santana-59aa948a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-santana-59aa948a" height="30" width="40" /></a>
 <a href="https://instagram.com/aka.luk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aka.luk" height="30" width="40" /></a>
+<a href="mailto:contatoluksantana@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="contatoluksantana@gmail.com" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
