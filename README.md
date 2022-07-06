@@ -1,6 +1,6 @@
 # 💫 About Me:
-🤠
-
+Meu nome é Lucas Santana e moro em Goiânia-GO.
+Atualmente estou aprendendo Javascript e NodeJS.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aka.luk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-santana-59aa948a) 
