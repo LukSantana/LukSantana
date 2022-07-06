@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Lucas Santana e moro em Goiânia-GO.
+Meu nome é Lucas Santana e moro em Goiânia-GO.<br>
 Atualmente estou aprendendo Javascript e NodeJS.
 
 ## 🌐 Socials:
