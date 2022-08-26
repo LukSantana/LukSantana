@@ -9,7 +9,7 @@
 
 - 👨‍💻 Meu portfólio [https://luksantana.github.io/portfolio/](https://luksantana.github.io/portfolio/)
 
-- 📫 How to reach me **lucas.diassantana@gmail.com**
+- 📫 Como entrar em contato comigo: **lucas.diassantana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
