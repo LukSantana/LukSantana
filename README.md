@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Santana</h1>
-<h3 align="center">Um desenvolvedor de Goiânia-GO, Brasil</h3>
+<h3 align="center">Apaixonado por tecnologia, goiano do pé rachado 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luksantana&label=Profile%20views&color=0e75b6&style=flat" alt="luksantana" /> </p>
 
