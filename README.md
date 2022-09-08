@@ -7,6 +7,8 @@
 
 - 🌱 Atualmente estou aprendendo **NodeJS e ReactJS**
 
+- 💻 Participante do programa GoDev 2022 de formação de desenvolvedores fullstack da Imã Learning Place.
+
 - 👨‍💻 Meu portfólio [https://luksantana.github.io/portfolio/](https://luksantana.github.io/portfolio/)
 
 - 📫 Como entrar em contato comigo: **lucas.diassantana@gmail.com**
