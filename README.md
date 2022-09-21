@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luksantana&theme=onedark" alt="luksantana" /></a> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukSantana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 Atualmente estou aprendendo **NodeJS e ReactJS**
 
 - 💻 Participante do programa GoDev 2022 de formação de desenvolvedores fullstack da Imã Learning Place.
