@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukSantana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Atualmente estou aprendendo **NodeJS e ReactJS**
+- 🌱 Atualmente estou aprendendo **NodeJS, ReactJS e Typescript**
 
 - 💻 Participante do programa GoDev 2022 de formação de desenvolvedores fullstack da Imã Learning Place.
 
