@@ -5,6 +5,8 @@
 
 - 🌱 Nowadays i'm studying: **NodeJS, ReactJS, Typescript and React Native.**
 
+- 💼 Currently i'm working as a Fullstack Developer at Trinus Co.
+
 - 👨‍💻 My portfolio [https://luksantana.github.io/portfolio/](https://luksantana.github.io/portfolio/)
 
 - 📫 How to reach me **lucas.diassantana@gmail.com**
