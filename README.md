@@ -1,7 +1,7 @@
 # 💫 About Me:
 📖 I am currently studying a degree in systems analysis and development at FIAP<br>
 👨‍💻 I'm currently working on RPAs<br>
-🌱 I'm currently learning Typescript, OOP and Power Automate
+🌱 I'm currently learning Jest, Microservices and Styled-Components.
 
 
 ## 🌐 Socials:
