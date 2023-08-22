@@ -1,6 +1,6 @@
 # 💫 About Me:
 📖 I am currently studying a degree in systems analysis and development at FIAP<br>
-👨‍💻 I'm currently working on RPAs<br>
+👨‍💻 I'm currently working on the workspace of the company i work on based on React, Typescript and Microservices<br>
 🌱 I'm currently learning Jest, Microservices and Styled-Components.
 
 
