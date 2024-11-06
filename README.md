@@ -72,11 +72,3 @@
 <img src="https://raw.githubusercontent.com/LukSantana/LukSantana/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22ku4u2gywc4vzx6lprwg5sra">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ku4u2gywc4vzx6lprwg5sra&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
