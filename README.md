@@ -1,7 +1,7 @@
 # 💫 About Me:
-📖 I am currently studying a degree in systems analysis and development at FIAP<br>
-👨‍💻 I'm currently working on the workspace of the company i work on based on React, Typescript and Microservices<br>
-🌱 I'm currently learning Jest, Microservices and Styled-Components.
+📖 I am currently finishing a degree in systems analysis and development at FIAP<br>
+👨‍💻 I'm currently working on the back-end of a mobile application used by tens of thousands of users of one of the biggest beverages companies in the world.<br>
+🌱 I'm currently focused on AWS, Serverless and Typescript.
 
 
 ## 🌐 Socials:
