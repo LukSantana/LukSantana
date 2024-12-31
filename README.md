@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>👨‍💻 I'm currently working on the back-end of a mobile application used by tens of thousands of users of one of the biggest beverages companies in the world<br>🎯 Goals: I wanna make stuff that can help people.</p>
+<p align="left">✨ Creating bugs since early 2022<br>👨‍💻 I'm currently working on the back-end of a mobile application used by tens of thousands of users of one of the biggest beverages companies in the world<br>🎯 Goals: I wanna make stuff that can help people.</p>
 
 ###
 
